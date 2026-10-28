@@ -1,0 +1,481 @@
+Timestamp,Service Name,Response_Time,HTTP Status,DB Pool Pct,DB Timeouts,CPU %,Message,Region
+2026-05-12 08:00:00,checkout-api,116,200,,,45,OK,eu-west
+2026-05-12 08:00:00,database,,,53.2,0,47,,eu-west
+2026-05-12 08:01:00,checkout-api,122,200,,,43,OK,us-east
+2026-05-12 08:01:00,database,,,36.0,0,61,,eu-west
+2026-05-12 08:02:00,checkout-api,118,200,,,45,OK,eu-west
+2026-05-12 08:02:00,database,,,42.4,0,43,,eu-west
+2026-05-12 08:03:00,checkout-api,108,200,,,39,OK,eu-west
+2026-05-12 08:03:00,Database,,,36.6,0,55,,eu-west
+2026-05-12 08:04:00,checkout-api,118,200,,,37,OK,eu-west
+2026-05-12 08:04:00,Database,,,53.7,0,43,,eu-west
+2026-05-12 08:05:00,checkout-api,98,200,,,35,OK,eu-west
+2026-05-12 08:05:00,Database,,,53.9,0,44,,eu-west
+2026-05-12 08:06:00,checkout-api,118,200,,,37,OK,us-east
+2026-05-12 08:06:00,Database,,,35.5,0,43,,eu-west
+2026-05-12 08:07:00,checkout-api,109,200,,,48,OK,us-east
+2026-05-12 08:07:00,database,,,46.0,0,45,,eu-west
+2026-05-12 08:08:00,checkout-api,117,200,,,48,OK,eu-west
+2026-05-12 08:08:00,database,,,,0,52,,eu-west
+2026-05-12 08:09:00,checkout-api,112,200,,,41,OK,eu-west
+2026-05-12 08:09:00,Database,,,44.1,0,54,,eu-west
+2026-05-12 08:10:00,checkout-api,105,200,,,43,OK,eu-west
+2026-05-12 08:10:00,database,,,37.0,0,60,,eu-west
+2026-05-12 08:11:00,checkout-api,113,200,,,50,OK,eu-west
+2026-05-12 08:11:00,Database,,,52.0,0,47,,eu-west
+2026-05-12 08:12:00,checkout-api,135,200,,,50,OK,eu-west
+2026-05-12 08:12:00,Database,,,54.0,0,48,,eu-west
+2026-05-12 08:13:00,checkout-api,119,200,,,42,OK,eu-west
+2026-05-12 08:13:00,Database,,,45.7,0,58,,eu-west
+2026-05-12 08:14:00,checkout-api,126,200,,,32,OK,eu-west
+2026-05-12 08:14:00,Database,,,45.4,0,64,,eu-west
+2026-05-12 08:15:00,checkout-api,118,200,,,45,OK,us-east
+2026-05-12 08:15:00,database,,,36.6,0,38,,eu-west
+2026-05-12 08:16:00,checkout-api,126,200,,,50,OK,eu-west
+2026-05-12 08:16:00,database,,,51.7,0,53,,eu-west
+2026-05-12 08:17:00,checkout-api,96,200,,,47,OK,us-east
+2026-05-12 08:17:00,database,,,49.9,0,30,,eu-west
+2026-05-12 08:18:00,checkout-api,126,200,,,44,OK,us-east
+2026-05-12 08:18:00,Database,,,48.1,0,48,,eu-west
+2026-05-12 08:19:00,checkout-api,119,200,,,53,OK,eu-west
+2026-05-12 08:19:00,database,,,35.6,0,68,,eu-west
+2026-05-12 08:20:00,checkout-api,110,200,,,40,OK,us-east
+2026-05-12 08:20:00,Database,,,48.2,0,53,,eu-west
+2026-05-12 08:21:00,checkout-api,114,200,,,34,OK,eu-west
+2026-05-12 08:21:00,database,,,44.5,0,41,,eu-west
+2026-05-12 08:22:00,checkout-api,101,200,,,41,OK,us-east
+2026-05-12 08:22:00,database,,,35.8,0,37,,eu-west
+2026-05-12 08:23:00,checkout-api,110,200,,,33,OK,us-east
+2026-05-12 08:23:00,database,,,45.2,0,49,,eu-west
+2026-05-12 08:24:00,checkout-api,131,200,,,40,OK,eu-west
+2026-05-12 08:24:00,Database,,,42.8,0,50,,eu-west
+2026-05-12 08:25:00,checkout-api,126,200,,,40,OK,eu-west
+2026-05-12 08:25:00,database,,,54.4,0,39,,eu-west
+2026-05-12 08:26:00,checkout-api,127,200,,,40,OK,us-east
+2026-05-12 08:26:00,database,,,41.8,0,56,,eu-west
+2026-05-12 08:27:00,checkout-api,128,200,,,37,OK,eu-west
+2026-05-12 08:27:00,database,,,54.7,0,49,,eu-west
+2026-05-12 08:28:00,checkout-api,120,200,,,44,OK,us-east
+2026-05-12 08:28:00,Database,,,43.1,0,52,,eu-west
+2026-05-12 08:29:00,checkout-api,123,200,,,35,OK,eu-west
+2026-05-12 08:29:00,database,,,36.3,0,39,,eu-west
+2026-05-12 08:30:00,checkout-api,88,200,,,38,OK,eu-west
+2026-05-12 08:30:00,Database,,,54.4,0,52,,eu-west
+2026-05-12 08:31:00,checkout-api,132,200,,,,OK,us-east
+2026-05-12 08:31:00,database,,,35.7,0,57,,eu-west
+2026-05-12 08:32:00,checkout-api,126,200,,,48,OK,us-east
+2026-05-12 08:32:00,Database,,,45.9,0,48,,eu-west
+2026-05-12 08:33:00,checkout-api,130,200,,,54,OK,eu-west
+2026-05-12 08:33:00,Database,,,35.3,0,69,,eu-west
+2026-05-12 08:34:00,checkout-api,113,200,,,37,OK,eu-west
+2026-05-12 08:34:00,database,,,44.2,0,58,,eu-west
+2026-05-12 08:35:00,checkout-api,120,200,,,45,OK,us-east
+2026-05-12 08:35:00,Database,,,42.6,0,46,,eu-west
+2026-05-12 08:36:00,checkout-api,120,200,,,52,OK,us-east
+2026-05-12 08:36:00,Database,,,35.4,0,67,,eu-west
+2026-05-12 08:37:00,checkout-api,139,200,,,34,OK,us-east
+2026-05-12 08:37:00,database,,,38.0,0,42,,eu-west
+2026-05-12 08:38:00,checkout-api,136,200,,,37,OK,eu-west
+2026-05-12 08:38:00,database,,,51.5,0,61,,eu-west
+2026-05-12 08:39:00,checkout-api,126,200,,,49,OK,us-east
+2026-05-12 08:39:00,database,,,35.1,0,51,,eu-west
+2026-05-12 08:40:00,checkout-api,99,200,,,40,OK,us-east
+2026-05-12 08:40:00,database,,,39.7,0,45,,eu-west
+2026-05-12 08:41:00,checkout-api,107,200,,,50,OK,eu-west
+2026-05-12 08:41:00,Database,,,41.6,0,53,,eu-west
+2026-05-12 08:42:00,checkout-api,103,200,,,43,OK,us-east
+2026-05-12 08:42:00,Database,,,44.3,0,60,,eu-west
+2026-05-12 08:43:00,checkout-api,119,200,,,48,OK,us-east
+2026-05-12 08:43:00,database,,,42.7,0,54,,eu-west
+2026-05-12 08:44:00,checkout-api,120,200,,,37,OK,eu-west
+2026-05-12 08:44:00,database,,,49.1,0,56,,eu-west
+2026-05-12 08:45:00,checkout-api,109,200,,,41,OK,eu-west
+2026-05-12 08:45:00,database,,,51.8,0,42,,eu-west
+2026-05-12 08:46:00,checkout-api,91,200,,,50,OK,eu-west
+2026-05-12 08:46:00,database,,,42.9,0,44,,eu-west
+2026-05-12 08:47:00,checkout-api,125,200,,,46,OK,us-east
+2026-05-12 08:47:00,Database,,,38.8,0,48,,eu-west
+2026-05-12 08:48:00,checkout-api,145,200,,,44,OK,eu-west
+2026-05-12 08:48:00,Database,,,36.0,0,50,,eu-west
+2026-05-12 08:49:00,checkout-api,98,200,,,37,OK,us-east
+2026-05-12 08:49:00,database,,,43.1,0,51,,eu-west
+2026-05-12 08:50:00,checkout-api,113,200,,,44,OK,eu-west
+2026-05-12 08:50:00,Database,,,44.1,0,46,,eu-west
+2026-05-12 08:51:00,checkout-api,123,200,,,42,OK,eu-west
+2026-05-12 08:51:00,Database,,,50.0,0,56,,eu-west
+2026-05-12 08:52:00,checkout-api,123,200,,,47,OK,eu-west
+2026-05-12 08:52:00,database,,,36.9,0,45,,eu-west
+2026-05-12 08:53:00,checkout-api,107,200,,,33,OK,us-east
+2026-05-12 08:53:00,Database,,,35.0,0,56,,eu-west
+2026-05-12 08:54:00,checkout-api,103,200,,,41,OK,eu-west
+2026-05-12 08:54:00,Database,,,53.8,0,50,,eu-west
+2026-05-12 08:55:00,checkout-api,119,200,,,50,OK,us-east
+2026-05-12 08:55:00,database,,,49.0,0,47,,eu-west
+2026-05-12 08:56:00,checkout-api,,200,,,41,OK,us-east
+2026-05-12 08:56:00,Database,,,40.6,0,57,,eu-west
+2026-05-12 08:57:00,checkout-api,109,200,,,42,OK,us-east
+2026-05-12 08:57:00,database,,,36.6,0,52,,eu-west
+2026-05-12 08:58:00,checkout-api,121,200,,,44,OK,us-east
+2026-05-12 08:58:00,database,,,49.8,0,57,,eu-west
+2026-05-12 08:59:00,checkout-api,118,200,,,38,OK,eu-west
+2026-05-12 08:59:00,Database,,,52.9,0,69,,eu-west
+2026-05-12 09:00:00,checkout-api,128,200,,,41,OK,eu-west
+2026-05-12 09:00:00,database,,,49.2,0,63,,eu-west
+2026-05-12 09:01:00,checkout-api,101,200,,,48,OK,eu-west
+2026-05-12 09:01:00,Database,,,41.2,0,67,,eu-west
+2026-05-12 09:02:00,checkout-api,113,200,,,43,OK,eu-west
+2026-05-12 09:02:00,Database,,,42.6,0,48,,eu-west
+2026-05-12 09:03:00,checkout-api,122,200,,,34,OK,us-east
+2026-05-12 09:03:00,Database,,,40.0,0,63,,eu-west
+2026-05-12 09:04:00,checkout-api,151,200,,,47,OK,us-east
+2026-05-12 09:04:00,database,,,41.7,0,49,,eu-west
+2026-05-12 09:05:00,checkout-api,107,200,,,32,OK,eu-west
+2026-05-12 09:05:00,Database,,,37.1,0,36,,eu-west
+2026-05-12 09:06:00,checkout-api,120,200,,,48,OK,us-east
+2026-05-12 09:06:00,database,,,51.5,0,47,,eu-west
+2026-05-12 09:07:00,checkout-api,132,200,,,42,OK,eu-west
+2026-05-12 09:07:00,Database,,,44.6,0,44,,eu-west
+2026-05-12 09:08:00,checkout-api,125,200,,,43,OK,us-east
+2026-05-12 09:08:00,database,,,38.5,0,41,,eu-west
+2026-05-12 09:09:00,checkout-api,105,200,,,45,OK,us-east
+2026-05-12 09:09:00,Database,,,40.1,0,44,,eu-west
+2026-05-12 09:10:00,checkout-api,120,200,,,45,OK,eu-west
+2026-05-12 09:10:00,database,,,45.1,0,57,,eu-west
+2026-05-12 09:11:00,checkout-api,130,200,,,36,OK,eu-west
+2026-05-12 09:11:00,database,,,37.4,0,52,,eu-west
+2026-05-12 09:12:00,checkout-api,122,200,,,44,OK,eu-west
+2026-05-12 09:12:00,Database,,,37.1,0,47,,eu-west
+2026-05-12 09:13:00,checkout-api,126,200,,,42,OK,us-east
+2026-05-12 09:13:00,Database,,,38.7,0,51,,eu-west
+2026-05-12 09:14:00,checkout-api,103,200,,,42,OK,eu-west
+2026-05-12 09:14:00,Database,,,48.1,0,44,,eu-west
+2026-05-12 09:15:00,checkout-api,127,200,,,38,OK,us-east
+2026-05-12 09:15:00,Database,,,47.9,0,56,,eu-west
+2026-05-12 09:16:00,checkout-api,152,200,,,42,OK,us-east
+2026-05-12 09:16:00,database,,,,0,39,,eu-west
+2026-05-12 09:17:00,checkout-api,113,200,,,39,OK,eu-west
+2026-05-12 09:17:00,database,,,53.5,0,50,,eu-west
+2026-05-12 09:18:00,checkout-api,127,200,,,32,OK,us-east
+2026-05-12 09:18:00,Database,,,36.1,0,47,,eu-west
+2026-05-12 09:19:00,checkout-api,98,200,,,39,OK,eu-west
+2026-05-12 09:19:00,database,,,35.8,0,47,,eu-west
+2026-05-12 09:20:00,checkout-api,120,200,,,52,OK,eu-west
+2026-05-12 09:20:00,Database,,,48.4,0,42,,eu-west
+2026-05-12 09:21:00,checkout-api,109,200,,,34,OK,us-east
+2026-05-12 09:21:00,database,,,38.6,0,55,,eu-west
+2026-05-12 09:22:00,checkout-api,122,200,,,52,OK,eu-west
+2026-05-12 09:22:00,Database,,,36.3,0,57,,eu-west
+2026-05-12 09:23:00,checkout-api,129,200,,,41,OK,eu-west
+2026-05-12 09:23:00,Database,,,50.0,0,36,,eu-west
+2026-05-12 09:24:00,checkout-api,125,200,,,42,OK,us-east
+2026-05-12 09:24:00,database,,,40.8,0,49,,eu-west
+2026-05-12 09:25:00,checkout-api,110,200,,,32,OK,us-east
+2026-05-12 09:25:00,Database,,,45.0,0,39,,eu-west
+2026-05-12 09:26:00,checkout-api,107,200,,,42,OK,us-east
+2026-05-12 09:26:00,database,,,52.9,0,49,,eu-west
+2026-05-12 09:27:00,checkout-api,146,200,,,33,OK,us-east
+2026-05-12 09:27:00,Database,,,54.9,0,48,,eu-west
+2026-05-12 09:28:00,checkout-api,110,200,,,46,OK,eu-west
+2026-05-12 09:28:00,Database,,,40.9,0,66,,eu-west
+2026-05-12 09:29:00,checkout-api,114,200,,,43,OK,us-east
+2026-05-12 09:29:00,database,,,45.3,0,57,,eu-west
+2026-05-12 09:30:00,checkout-api,118,200,,,41,OK,eu-west
+2026-05-12 09:30:00,Database,,,43.3,0,53,,eu-west
+2026-05-12 09:31:00,checkout-api,140,200,,,44,OK,us-east
+2026-05-12 09:31:00,Database,,,43.0,0,53,,eu-west
+2026-05-12 09:32:00,checkout-api,134,200,,,31,OK,us-east
+2026-05-12 09:32:00,database,,,40.0,0,42,,eu-west
+2026-05-12 09:33:00,checkout-api,,200,,,28,OK,eu-west
+2026-05-12 09:33:00,Database,,,45.4,0,44,,eu-west
+2026-05-12 09:34:00,checkout-api,115,200,,,47,OK,eu-west
+2026-05-12 09:34:00,Database,,,42.5,0,37,,eu-west
+2026-05-12 09:35:00,checkout-api,125,200,,,47,OK,us-east
+2026-05-12 09:35:00,Database,,,49.2,0,52,,eu-west
+2026-05-12 09:36:00,checkout-api,107,200,,,30,OK,eu-west
+2026-05-12 09:36:00,database,,,52.6,0,63,,eu-west
+2026-05-12 09:37:00,checkout-api,104,200,,,36,OK,us-east
+2026-05-12 09:37:00,database,,,44.4,0,57,,eu-west
+2026-05-12 09:38:00,checkout-api,117,200,,,34,OK,eu-west
+2026-05-12 09:38:00,database,,,37.9,0,47,,eu-west
+2026-05-12 09:39:00,checkout-api,114,200,,,41,OK,eu-west
+2026-05-12 09:39:00,Database,,,36.3,0,48,,eu-west
+2026-05-12 09:40:00,checkout-api,98,200,,,40,OK,eu-west
+2026-05-12 09:40:00,database,,,39.1,0,67,,eu-west
+2026-05-12 09:41:00,checkout-api,110,200,,,39,OK,eu-west
+2026-05-12 09:41:00,Database,,,40.9,0,51,,eu-west
+2026-05-12 09:42:00,checkout-api,119,200,,,47,OK,us-east
+2026-05-12 09:42:00,database,,,52.0,0,59,,eu-west
+2026-05-12 09:43:00,checkout-api,124,200,,,40,OK,us-east
+2026-05-12 09:43:00,database,,,38.4,0,35,,eu-west
+2026-05-12 09:44:00,checkout-api,120,200,,,40,OK,us-east
+2026-05-12 09:44:00,Database,,,46.9,0,58,,eu-west
+2026-05-12 09:45:00,checkout-api,143,200,,,43,OK,eu-west
+2026-05-12 09:45:00,Database,,,47.6,0,41,,eu-west
+2026-05-12 09:46:00,checkout-api,139,200,,,36,OK,us-east
+2026-05-12 09:46:00,database,,,53.0,0,54,,eu-west
+2026-05-12 09:47:00,checkout-api,113,200,,,39,OK,eu-west
+2026-05-12 09:47:00,Database,,,52.4,0,44,,eu-west
+2026-05-12 09:48:00,checkout-api,128,200,,,48,OK,eu-west
+2026-05-12 09:48:00,Database,,,45.2,0,46,,eu-west
+2026-05-12 09:49:00,checkout-api,92,200,,,38,OK,eu-west
+2026-05-12 09:49:00,database,,,40.2,0,49,,eu-west
+2026-05-12 09:50:00,checkout-api,123,200,,,45,OK,eu-west
+2026-05-12 09:50:00,database,,,47.8,0,,,eu-west
+2026-05-12 09:51:00,checkout-api,109,200,,,47,OK,us-east
+2026-05-12 09:51:00,Database,,,,0,49,,eu-west
+2026-05-12 09:52:00,checkout-api,134,200,,,35,OK,eu-west
+2026-05-12 09:52:00,database,,,48.6,0,46,,eu-west
+2026-05-12 09:53:00,checkout-api,139,200,,,39,OK,us-east
+2026-05-12 09:53:00,Database,,,35.4,0,46,,eu-west
+2026-05-12 09:54:00,checkout-api,142,200,,,33,OK,eu-west
+2026-05-12 09:54:00,database,,,35.8,0,54,,eu-west
+2026-05-12 09:55:00,checkout-api,85,200,,,41,OK,us-east
+2026-05-12 09:55:00,Database,,,45.4,0,41,,eu-west
+2026-05-12 09:56:00,checkout-api,130,200,,,42,OK,eu-west
+2026-05-12 09:56:00,Database,,,40.0,0,58,,eu-west
+2026-05-12 09:57:00,checkout-api,121,200,,,44,OK,eu-west
+2026-05-12 09:57:00,Database,,,54.9,0,63,,eu-west
+2026-05-12 09:58:00,checkout-api,125,200,,,41,OK,eu-west
+2026-05-12 09:58:00,Database,,,42.1,0,47,,eu-west
+2026-05-12 09:59:00,checkout-api,138,200,,,41,OK,us-east
+2026-05-12 09:59:00,Database,,,,0,58,,eu-west
+2026-05-12 10:00:00,checkout-api,118,200,,,46,OK,us-east
+2026-05-12 10:00:00,Database,,,38.1,0,64,,eu-west
+2026-05-12 10:01:00,checkout-api,130,200,,,,OK,eu-west
+2026-05-12 10:01:00,Database,,,48.1,0,49,,eu-west
+2026-05-12 10:02:00,checkout-api,126,200,,,39,OK,eu-west
+2026-05-12 10:02:00,database,,,47.2,0,61,,eu-west
+2026-05-12 10:03:00,checkout-api,104,200,,,42,OK,eu-west
+2026-05-12 10:03:00,database,,,40.3,0,41,,eu-west
+2026-05-12 10:04:00,checkout-api,104,200,,,40,OK,eu-west
+2026-05-12 10:04:00,Database,,,38.2,0,39,,eu-west
+2026-05-12 10:05:00,checkout-api,111,200,,,50,OK,eu-west
+2026-05-12 10:05:00,database,,,35.4,0,55,,eu-west
+2026-05-12 10:06:00,checkout-api,99,200,,,57,OK,us-east
+2026-05-12 10:06:00,Database,,,47.5,0,46,,eu-west
+2026-05-12 10:07:00,checkout-api,108,200,,,40,OK,us-east
+2026-05-12 10:07:00,Database,,,40.9,0,55,,eu-west
+2026-05-12 10:08:00,checkout-api,118,200,,,49,OK,us-east
+2026-05-12 10:08:00,database,,,49.3,0,41,,eu-west
+2026-05-12 10:09:00,checkout-api,100,200,,,,OK,eu-west
+2026-05-12 10:09:00,Database,,,51.4,0,52,,eu-west
+2026-05-12 10:10:00,checkout-api,128,200,,,29,OK,eu-west
+2026-05-12 10:10:00,Database,,,39.3,0,55,,eu-west
+2026-05-12 10:11:00,checkout-api,140,200,,,54,OK,us-east
+2026-05-12 10:11:00,Database,,,46.2,0,51,,eu-west
+2026-05-12 10:12:00,checkout-api,123,200,,,42,OK,eu-west
+2026-05-12 10:12:00,Database,,,51.5,0,,,eu-west
+2026-05-12 10:13:00,checkout-api,112,200,,,49,OK,eu-west
+2026-05-12 10:13:00,Database,,,36.7,0,49,,eu-west
+2026-05-12 10:14:00,checkout-api,121,200,,,42,OK,eu-west
+2026-05-12 10:14:00,database,,,37.6,0,42,,eu-west
+2026-05-12 10:15:00,checkout-api,113,200,,,41,OK,us-east
+2026-05-12 10:15:00,Database,,,47.6,0,46,,eu-west
+2026-05-12 10:16:00,checkout-api,,200,,,57,OK,eu-west
+2026-05-12 10:16:00,Database,,,42.8,0,58,,eu-west
+2026-05-12 10:17:00,checkout-api,146,200,,,34,OK,eu-west
+2026-05-12 10:17:00,database,,,42.3,0,55,,eu-west
+2026-05-12 10:18:00,checkout-api,100,200,,,49,OK,eu-west
+2026-05-12 10:18:00,Database,,,47.4,0,50,,eu-west
+2026-05-12 10:19:00,checkout-api,117,200,,,42,OK,eu-west
+2026-05-12 10:19:00,Database,,,51.1,0,58,,eu-west
+2026-05-12 10:20:00,checkout-api,119,200,,,45,OK,eu-west
+2026-05-12 10:20:00,database,,,51.2,0,59,,eu-west
+2026-05-12 10:21:00,checkout-api,98,200,,,32,OK,eu-west
+2026-05-12 10:21:00,database,,,41.2,0,45,,eu-west
+2026-05-12 10:22:00,checkout-api,123,200,,,46,OK,us-east
+2026-05-12 10:22:00,database,,,50.4,0,44,,eu-west
+2026-05-12 10:23:00,checkout-api,118,200,,,43,OK,us-east
+2026-05-12 10:23:00,Database,,,42.3,0,53,,eu-west
+2026-05-12 10:24:00,checkout-api,123,200,,,43,OK,eu-west
+2026-05-12 10:24:00,database,,,38.1,0,48,,eu-west
+2026-05-12 10:25:00,checkout-api,120,200,,,38,OK,us-east
+2026-05-12 10:25:00,Database,,,36.9,0,47,,eu-west
+2026-05-12 10:26:00,checkout-api,131,200,,,41,OK,eu-west
+2026-05-12 10:26:00,Database,,,35.7,0,31,,eu-west
+2026-05-12 10:27:00,checkout-api,129,200,,,53,OK,eu-west
+2026-05-12 10:27:00,Database,,,47.8,0,64,,eu-west
+2026-05-12 10:28:00,checkout-api,112,200,,,45,OK,eu-west
+2026-05-12 10:28:00,database,,,53.1,0,63,,eu-west
+2026-05-12 10:29:00,checkout-api,128,200,,,48,OK,us-east
+2026-05-12 10:29:00,Database,,,46.8,0,61,,eu-west
+2026-05-12 10:30:00,checkout-api,115,200,,,46,OK,eu-west
+2026-05-12 10:30:00,database,,,53.3,0,62,,eu-west
+2026-05-12 10:31:00,checkout-api,106,200,,,35,OK,eu-west
+2026-05-12 10:31:00,Database,,,53.5,0,60,,eu-west
+2026-05-12 10:32:00,checkout-api,107,200,,,44,OK,eu-west
+2026-05-12 10:32:00,database,,,49.7,0,46,,eu-west
+2026-05-12 10:33:00,checkout-api,117,200,,,40,OK,eu-west
+2026-05-12 10:33:00,database,,,40.2,0,65,,eu-west
+2026-05-12 10:34:00,checkout-api,151,200,,,53,OK,us-east
+2026-05-12 10:34:00,database,,,51.7,0,52,,eu-west
+2026-05-12 10:35:00,checkout-api,134,200,,,39,OK,us-east
+2026-05-12 10:35:00,database,,,37.9,0,67,,eu-west
+2026-05-12 10:36:00,checkout-api,104,200,,,42,OK,eu-west
+2026-05-12 10:36:00,database,,,53.2,0,56,,eu-west
+2026-05-12 10:37:00,checkout-api,146,200,,,48,OK,us-east
+2026-05-12 10:37:00,database,,,38.5,0,35,,eu-west
+2026-05-12 10:38:00,checkout-api,127,200,,,35,OK,eu-west
+2026-05-12 10:38:00,Database,,,45.4,0,59,,eu-west
+2026-05-12 10:39:00,checkout-api,95,200,,,45,OK,us-east
+2026-05-12 10:39:00,Database,,,35.7,0,45,,eu-west
+2026-05-12 10:40:00,checkout-api,98,200,,,53,OK,us-east
+2026-05-12 10:40:00,database,,,60.7,0,60,,eu-west
+2026-05-12 10:41:00,checkout-api,171,200,,,42,OK,eu-west
+2026-05-12 10:41:00,database,,,,0,53,,eu-west
+2026-05-12 10:42:00,checkout-api,239,200,,,37,OK,us-east
+2026-05-12 10:42:00,database,,,62.2,1,57,,eu-west
+2026-05-12 10:43:00,checkout-api,262,200,,,47,OK,eu-west
+2026-05-12 10:43:00,Database,,,66.0,1,58,,eu-west
+2026-05-12 10:44:00,checkout-api,324,200,,,40,OK,eu-west
+2026-05-12 10:44:00,database,,,68.3,1,47,,eu-west
+2026-05-12 10:45:00,checkout-api,415,200,,,37,OK,us-east
+2026-05-12 10:45:00,database,,,68.4,1,47,,eu-west
+2026-05-12 10:46:00,checkout-api,435,200,,,45,OK,us-east
+2026-05-12 10:46:00,database,,,71.6,3,46,,eu-west
+2026-05-12 10:47:00,checkout-api,413,200,,,39,OK,us-east
+2026-05-12 10:47:00,database,,,72.1,1,46,,eu-west
+2026-05-12 10:48:00,checkout-api,644,200,,,48,OK,eu-west
+2026-05-12 10:48:00,Database,,,74.7,3,44,,eu-west
+2026-05-12 10:49:00,checkout-api,629,200,,,41,OK,us-east
+2026-05-12 10:49:00,Database,,,76.7,3,45,,eu-west
+2026-05-12 10:50:00,checkout-api,624,200,,,,OK,us-east
+2026-05-12 10:50:00,Database,,,77.6,5,43,,eu-west
+2026-05-12 10:51:00,checkout-api,603,200,,,53,OK,eu-west
+2026-05-12 10:51:00,Database,,,80.7,5,57,,eu-west
+2026-05-12 10:52:00,checkout-api,812,200,,,57,OK,eu-west
+2026-05-12 10:52:00,database,,,83.0,6,49,,eu-west
+2026-05-12 10:53:00,checkout-api,856,200,,,,OK,eu-west
+2026-05-12 10:53:00,database,,,84.4,7,62,,eu-west
+2026-05-12 10:54:00,checkout-api,784,200,,,36,OK,us-east
+2026-05-12 10:54:00,Database,,,85.8,5,63,,eu-west
+2026-05-12 10:55:00,checkout-api,817,200,,,44,OK,eu-west
+2026-05-12 10:55:00,Database,,,86.8,8,42,,eu-west
+2026-05-12 10:56:00,checkout-api,1147,504,,,47,DB query timed out waiting for a connection from the pool,us-east
+2026-05-12 10:56:00,Database,,,90.4,5,60,connection pool near capacity,eu-west
+2026-05-12 10:57:00,checkout-api,1064,200,,,37,OK,eu-west
+2026-05-12 10:57:00,Database,,,92.1,3,46,connection pool near capacity,eu-west
+2026-05-12 10:58:00,checkout-api,859,200,,,40,OK,us-east
+2026-05-12 10:58:00,database,,,94.6,8,41,connection pool near capacity,eu-west
+2026-05-12 10:59:00,checkout-api,1115,200,,,38,OK,us-east
+2026-05-12 10:59:00,database,,,96.3,7,36,connection pool near capacity,eu-west
+2026-05-12 11:00:00,checkout-api,1191,200,,,50,OK,eu-west
+2026-05-12 11:00:00,database,,,98.4,3,50,connection pool near capacity,eu-west
+2026-05-12 11:01:00,checkout-api,1324,200,,,44,OK,us-east
+2026-05-12 11:01:00,database,,,99.0,11,59,connection pool near capacity,eu-west
+2026-05-12 11:02:00,checkout-api,1282,200,,,44,OK,us-east
+2026-05-12 11:02:00,database,,,98.9,8,46,connection pool near capacity,eu-west
+2026-05-12 11:03:00,checkout-api,945,200,,,34,OK,eu-west
+2026-05-12 11:03:00,Database,,,,7,39,connection pool near capacity,eu-west
+2026-05-12 11:04:00,checkout-api,826,200,,,48,OK,eu-west
+2026-05-12 11:04:00,Database,,,,10,56,connection pool near capacity,eu-west
+2026-05-12 11:05:00,checkout-api,959,504,,,50,DB query timed out waiting for a connection from the pool,eu-west
+2026-05-12 11:05:00,Database,,,97.4,6,55,connection pool near capacity,eu-west
+2026-05-12 11:06:00,checkout-api,1055,200,,,44,OK,us-east
+2026-05-12 11:06:00,Database,,,96.4,7,38,connection pool near capacity,eu-west
+2026-05-12 11:07:00,checkout-api,1337,200,,,37,OK,us-east
+2026-05-12 11:07:00,database,,,98.3,6,52,connection pool near capacity,eu-west
+2026-05-12 11:08:00,checkout-api,1299,200,,,49,OK,eu-west
+2026-05-12 11:08:00,Database,,,96.6,6,55,connection pool near capacity,eu-west
+2026-05-12 11:09:00,checkout-api,1120,200,,,48,OK,us-east
+2026-05-12 11:09:00,database,,,98.1,6,59,connection pool near capacity,eu-west
+2026-05-12 11:10:00,checkout-api,1244,200,,,49,OK,us-east
+2026-05-12 11:10:00,database,,,96.1,9,47,connection pool near capacity,eu-west
+2026-05-12 11:11:00,checkout-api,1335,200,,,48,OK,us-east
+2026-05-12 11:11:00,database,,,96.7,9,57,connection pool near capacity,eu-west
+2026-05-12 11:12:00,checkout-api,1059,504,,,37,DB query timed out waiting for a connection from the pool,eu-west
+2026-05-12 11:12:00,Database,,,99.3,4,46,connection pool near capacity,eu-west
+2026-05-12 11:13:00,checkout-api,1203,200,,,45,OK,eu-west
+2026-05-12 11:13:00,database,,,97.0,5,44,connection pool near capacity,eu-west
+2026-05-12 11:14:00,checkout-api,947,200,,,43,OK,us-east
+2026-05-12 11:14:00,database,,,98.2,11,49,connection pool near capacity,eu-west
+2026-05-12 11:15:00,checkout-api,,200,,,47,OK,eu-west
+2026-05-12 11:15:00,database,,,99.1,8,38,connection pool near capacity,eu-west
+2026-05-12 11:16:00,checkout-api,1299,200,,,43,OK,us-east
+2026-05-12 11:16:00,database,,,99.5,8,66,connection pool near capacity,eu-west
+2026-05-12 11:17:00,checkout-api,1398,200,,,46,OK,eu-west
+2026-05-12 11:17:00,database,,,98.4,4,40,connection pool near capacity,eu-west
+2026-05-12 11:18:00,checkout-api,1182,200,,,39,OK,eu-west
+2026-05-12 11:18:00,database,,,97.9,5,48,connection pool near capacity,eu-west
+2026-05-12 11:19:00,checkout-api,908,200,,,,OK,us-east
+2026-05-12 11:19:00,Database,,,96.5,8,51,connection pool near capacity,eu-west
+2026-05-12 11:20:00,checkout-api,1188,200,,,40,OK,eu-west
+2026-05-12 11:20:00,Database,,,98.1,7,55,connection pool near capacity,eu-west
+2026-05-12 11:21:00,checkout-api,952,200,,,45,OK,eu-west
+2026-05-12 11:21:00,Database,,,96.6,7,62,connection pool near capacity,eu-west
+2026-05-12 11:22:00,checkout-api,1424,200,,,44,OK,us-east
+2026-05-12 11:22:00,Database,,,96.4,7,51,connection pool near capacity,eu-west
+2026-05-12 11:23:00,checkout-api,862,200,,,41,OK,eu-west
+2026-05-12 11:23:00,Database,,,96.5,3,38,connection pool near capacity,eu-west
+2026-05-12 11:24:00,checkout-api,1336,504,,,50,DB query timed out waiting for a connection from the pool,us-east
+2026-05-12 11:24:00,database,,,98.6,5,46,connection pool near capacity,eu-west
+2026-05-12 11:25:00,checkout-api,1380,504,,,45,DB query timed out waiting for a connection from the pool,us-east
+2026-05-12 11:25:00,Database,,,99.2,11,51,connection pool near capacity,eu-west
+2026-05-12 11:26:00,checkout-api,1216,200,,,42,OK,us-east
+2026-05-12 11:26:00,Database,,,96.3,3,52,connection pool near capacity,eu-west
+2026-05-12 11:27:00,checkout-api,1201,504,,,43,DB query timed out waiting for a connection from the pool,us-east
+2026-05-12 11:27:00,database,,,99.1,3,52,connection pool near capacity,eu-west
+2026-05-12 11:28:00,checkout-api,1005,200,,,40,OK,eu-west
+2026-05-12 11:28:00,Database,,,97.6,7,39,connection pool near capacity,eu-west
+2026-05-12 11:29:00,checkout-api,1056,200,,,46,OK,us-east
+2026-05-12 11:29:00,Database,,,98.0,6,38,connection pool near capacity,eu-west
+2026-05-12 11:30:00,checkout-api,1347,200,,,47,OK,us-east
+2026-05-12 11:30:00,Database,,,98.4,4,57,connection pool near capacity,eu-west
+2026-05-12 11:31:00,checkout-api,1080,200,,,46,OK,eu-west
+2026-05-12 11:31:00,database,,,99.0,5,49,connection pool near capacity,eu-west
+2026-05-12 11:32:00,checkout-api,1092,200,,,38,OK,eu-west
+2026-05-12 11:32:00,Database,,,99.0,9,40,connection pool near capacity,eu-west
+2026-05-12 11:33:00,checkout-api,1389,200,,,35,OK,eu-west
+2026-05-12 11:33:00,Database,,,99.4,4,49,connection pool near capacity,eu-west
+2026-05-12 11:34:00,checkout-api,,200,,,40,OK,eu-west
+2026-05-12 11:34:00,database,,,97.6,4,59,connection pool near capacity,eu-west
+2026-05-12 11:35:00,checkout-api,1144,504,,,47,DB query timed out waiting for a connection from the pool,eu-west
+2026-05-12 11:35:00,Database,,,98.9,4,62,connection pool near capacity,eu-west
+2026-05-12 11:36:00,checkout-api,1299,200,,,47,OK,eu-west
+2026-05-12 11:36:00,database,,,96.1,11,53,connection pool near capacity,eu-west
+2026-05-12 11:37:00,checkout-api,1184,200,,,50,OK,us-east
+2026-05-12 11:37:00,database,,,99.1,9,59,connection pool near capacity,eu-west
+2026-05-12 11:38:00,checkout-api,1007,200,,,42,OK,us-east
+2026-05-12 11:38:00,database,,,97.8,10,42,connection pool near capacity,eu-west
+2026-05-12 11:39:00,checkout-api,1311,500,,,38,Internal error while saving order,eu-west
+2026-05-12 11:39:00,Database,,,97.3,7,52,connection pool near capacity,eu-west
+2026-05-12 11:40:00,checkout-api,1045,200,,,43,OK,us-east
+2026-05-12 11:40:00,Database,,,97.1,6,59,connection pool near capacity,eu-west
+2026-05-12 11:41:00,checkout-api,849,200,,,41,OK,us-east
+2026-05-12 11:41:00,database,,,97.2,8,56,connection pool near capacity,eu-west
+2026-05-12 11:42:00,checkout-api,1320,200,,,38,OK,us-east
+2026-05-12 11:42:00,database,,,98.8,10,61,connection pool near capacity,eu-west
+2026-05-12 11:43:00,checkout-api,1269,200,,,38,OK,us-east
+2026-05-12 11:43:00,Database,,,97.2,9,44,connection pool near capacity,eu-west
+2026-05-12 11:44:00,checkout-api,1274,500,,,42,Internal error while saving order,us-east
+2026-05-12 11:44:00,Database,,,97.4,6,46,connection pool near capacity,eu-west
+2026-05-12 11:45:00,checkout-api,967,200,,,44,OK,eu-west
+2026-05-12 11:45:00,Database,,,98.0,5,49,connection pool near capacity,eu-west
+2026-05-12 11:46:00,checkout-api,1343,200,,,36,OK,us-east
+2026-05-12 11:46:00,database,,,99.1,7,50,connection pool near capacity,eu-west
+2026-05-12 11:47:00,checkout-api,1092,504,,,39,DB query timed out waiting for a connection from the pool,eu-west
+2026-05-12 11:47:00,database,,,99.4,8,50,connection pool near capacity,eu-west
+2026-05-12 11:48:00,checkout-api,802,200,,,,OK,us-east
+2026-05-12 11:48:00,Database,,,99.2,4,59,connection pool near capacity,eu-west
+2026-05-12 11:49:00,checkout-api,1303,200,,,43,OK,us-east
+2026-05-12 11:49:00,Database,,,99.5,6,47,connection pool near capacity,eu-west
+2026-05-12 11:50:00,checkout-api,999,200,,,50,OK,eu-west
+2026-05-12 11:50:00,database,,,96.3,4,54,connection pool near capacity,eu-west
+2026-05-12 11:51:00,checkout-api,1015,200,,,52,OK,eu-west
+2026-05-12 11:51:00,Database,,,98.6,5,69,connection pool near capacity,eu-west
+2026-05-12 11:52:00,checkout-api,1397,200,,,52,OK,us-east
+2026-05-12 11:52:00,Database,,,96.5,3,58,connection pool near capacity,eu-west
+2026-05-12 11:53:00,checkout-api,1159,200,,,50,OK,eu-west
+2026-05-12 11:53:00,Database,,,97.9,4,46,connection pool near capacity,eu-west
+2026-05-12 11:54:00,checkout-api,1308,200,,,33,OK,us-east
+2026-05-12 11:54:00,Database,,,99.4,7,46,connection pool near capacity,eu-west
+2026-05-12 11:55:00,checkout-api,,200,,,47,OK,us-east
+2026-05-12 11:55:00,Database,,,96.2,8,33,connection pool near capacity,eu-west
+2026-05-12 11:56:00,checkout-api,822,200,,,32,OK,us-east
+2026-05-12 11:56:00,Database,,,96.7,9,56,connection pool near capacity,eu-west
+2026-05-12 11:57:00,checkout-api,914,504,,,41,DB query timed out waiting for a connection from the pool,us-east
+2026-05-12 11:57:00,database,,,96.3,3,63,connection pool near capacity,eu-west
+2026-05-12 11:58:00,checkout-api,1154,504,,,38,DB query timed out waiting for a connection from the pool,us-east
+2026-05-12 11:58:00,Database,,,96.2,9,67,connection pool near capacity,eu-west
+2026-05-12 11:59:00,checkout-api,798,200,,,55,OK,us-east
+2026-05-12 11:59:00,Database,,,96.3,4,51,connection pool near capacity,eu-west
